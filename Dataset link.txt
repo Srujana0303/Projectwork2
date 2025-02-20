@@ -1,0 +1,40 @@
+https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
+
+Data Collection 
+Data organizing 
+data preprocessing 
+Modelling 
+
+
+dermatoscopic images 
+
+
+data imbalancing   ----  7 types  bcc -- 5000    overfit ------- 
+                                                                    nv --- 500 
+
+Data balancing -    data augmentation --- technique used to balance the data .
+                                           overSampling and underSampling 
+
+0.3 - 30% - validation ,   remaining - training (70%) 
+
+x --- x1 ----> x2   
+
+
+
+CNN - 33,32,679 - 12 MB     
+
+
+traditional vs light weighted models 
+
+
+squeezenet , mobilenetv2 , inceptionv3
+
+
+
+squeezenet -- backbone of squezenet is fire module ----layers 
+ fire module ( squeeze layer + expand layer)
+
+
+
+
+cloud platform --- web UI ---streamlit 
